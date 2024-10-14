@@ -1,4 +1,4 @@
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={goldgul})](https://solved.ac/{goldgul})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goldgul)](https://solved.ac/goldgul)
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
