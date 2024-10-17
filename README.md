@@ -1,4 +1,6 @@
-### 📫 Contact   
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goldgul)](https://solved.ac/goldgul)
+
+## 📫 Contact   
 <a href="mailto:oka1313@gmail.com">
     <img src="https://img.shields.io/badge/0908xmrqkr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -47,5 +49,4 @@
 
 ![riverkite0708's GitHub stats](https://github-readme-stats.vercel.app/api?username=riverkite0708&show_icons=true&theme=radical)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riverkite0708&layout=compact)   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goldgul)](https://solved.ac/goldgul)
 
